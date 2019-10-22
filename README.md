@@ -1,6 +1,6 @@
-# v-slim-dialog
+# vue-dialog
 
-## Slim Dialog for Vuejs
+## Vue Dialog for Vuejs
 
 ## Installation
 
@@ -15,7 +15,6 @@ npm install v-slim-dialog --save
 ```js
 import Vue from 'vue'
 
-import 'v-slim-dialog/dist/v-slim-dialog.css'
 import SlimDialog from 'v-slim-dialog'
 
 Vue.use(SlimDialog)
